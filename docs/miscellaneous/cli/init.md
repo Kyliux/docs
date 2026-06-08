@@ -1,8 +1,5 @@
-Set up your project.
+Set up your project by creating a config file.
 
-```bash
-Usage: juno init [options]
-
-Options:
-  -h, --help            Output usage information.
+```
+Alias for: juno config init [options]
 ```
